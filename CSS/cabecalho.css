@@ -1,0 +1,56 @@
+body{
+  background-color:purple;
+  overflow-x: hidden;
+}
+
+
+.cabecalho {max-width: 100%;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: purple;
+}
+
+.cabecalho li {max-width: 100%;
+  margin: 0 20px;
+  display: inline-block;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.cabecalho li:hover {
+  color: pink;
+}
+
+nav#icones {
+  position: absolute;
+  top: 1px;
+  right: 20px;
+}
+
+nav#icones ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav#icones li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav#icones img {
+  width: 60px;
+  height: 60px;
+}
+
+
+
+

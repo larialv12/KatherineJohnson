@@ -1,0 +1,39 @@
+#contribuicoes h1 {
+    font-size: 3em;
+    margin-left: 4%;
+    display: inline-block;
+    position: relative;
+    top: 280px;
+    color: white;
+       
+   }
+
+   #contribuicoes hr {
+      
+   color: white;
+   top: 280px;
+   position: relative
+
+   }
+
+   
+
+   #contribuicoes p {
+    color: white;
+    position: relative;
+    top: 290px;
+    margin: 0 20px;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 20px; 
+    left:20px ;
+  
+}
+
+#contribuicoes img {
+    width: 30%;
+    position: relative;
+    top: 280px ;
+    left: 100px;
+}
+
