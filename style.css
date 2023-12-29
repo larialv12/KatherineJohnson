@@ -36,6 +36,10 @@ body {
        margin:  20px 0px 0px 100px;  
   
   }
+
+.cabecalho__lista li:hover {
+    color:pink;
+}
   
   
   .icones {
