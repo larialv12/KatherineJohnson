@@ -1,0 +1,368 @@
+
+body {
+    margin: 0;
+    background-color: blueviolet;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+
+  }
+  
+  
+  
+  .header   {
+     background-color: white;
+     display: flex;
+     height: 70px;
+     font-size: 1.5em;
+     justify-content: center;
+     color: purple;
+     font-weight: bold;
+     margin-bottom:20px;
+  
+  
+  }
+  
+  
+   .cabecalho__lista {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+  
+  .cabecalho__lista li {
+       display: flex;
+       margin:  20px 0px 0px 100px;  
+  
+  }
+  
+  
+  .icones {
+      display: flex;
+      align-items: center;
+      margin-left: 80px;
+  
+  }
+  
+    .icones ul {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+  }
+  
+  .icones img {
+      width: 70px;
+      height: 70px;
+      
+  
+  }
+  
+  .icones li {
+       margin:2px -5px ;
+  }
+  
+
+  
+
+  .perfil {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+
+ }
+
+.perfil h1 {
+    color: white;
+    margin-bottom: 70px;
+    font-size: 3.0em;
+}
+
+#carreira img {
+
+}
+
+#contribuicoes img {
+    width: 40%;
+    height: 300px;
+    margin: 5% auto;
+     
+
+}
+
+#carreira img {
+    width: 40%;
+    height: 300px;
+    margin: 5% auto;
+     
+}
+
+
+
+
+
+
+
+
+h2 {
+    font-size: 3.0em;
+    margin-left: 5%;
+
+    color: white;
+    font-weight: bold;
+  }
+   
+  
+   
+  
+  p {
+    font-size: 1.1em;
+    color: white;
+    display: flex;
+    margin: 0  auto;
+    width: 90% ;
+    line-height: 30px;
+    margin-bottom: 70px;
+
+
+
+  }
+
+ 
+
+  
+
+  
+
+  .premios-lista li  img {
+
+    width: 50%;
+    height: 50%;
+    display: flex;
+    margin: 0 auto;
+    white-space: nowrap;
+    
+
+  }
+
+  .premios-lista {
+     font-size: 15px;
+     display: flex;
+     justify-content: space-evenly;
+     
+    margin-bottom: 40px;
+  }
+
+  .premios-lista li {
+     border: 2px white solid;
+     width: 30%;
+     
+  }
+
+  
+
+
+ 
+  .premios-lista p {
+
+    width: 70%;
+    text-align: center;
+
+  }
+  
+  #curiosidades div p  {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 30px;
+
+}
+
+#curiosidades div img  {
+  display: flex;
+  margin: 5px auto;
+
+}
+
+#curiosidades div iframe  {
+  display: flex;
+  margin: 80px auto;
+
+}
+
+
+.rodape {
+   background-color: white;
+   height: 160px;
+   width: 100%;
+   margin-top: 20px;
+
+
+
+
+
+}
+
+
+span {
+  color: purple;
+   
+}
+
+.rodape img {
+   width: 120px;
+   height: 160px;
+   display: flex;
+   margin: 0 auto;
+}
+
+.rodape h2 {
+  font-size: 1.2em;
+  margin-top: -50px;
+  color: purple;
+  text-align: center;
+  font-family: 'Caveat', cursive;
+    
+}
+
+@media (max-width:884px){
+
+
+    .icones {
+        margin: 0 auto;
+    }
+
+  .cabecalho__lista {
+     display: none;
+     margin: 0;
+  }
+
+
+    #biografia h2 {
+      margin-top: 8px;
+   }
+
+    h2 {
+    font-size: 2.7em;
+ }
+
+ .perfil h1 {
+    font-size: 2.5em;
+    white-space: nowrap;
+    margin-top: 20px;
+
+ }
+
+ 
+
+
+   #carreira img {
+      width: 80%;
+      margin-top:0;
+      height: 40%;
+      display: inline;
+
+   }
+
+
+   #contribuicoes img {
+    width: 80%;
+    height: 20%;
+    display: inline;
+
+ }
+
+
+   p {
+    font-size: 1.0em ;
+    margin-bottom: 30px;
+   }
+
+
+   .premios-lista {
+      display: flex;
+      flex-direction: column;
+      margin-top: 1px;
+
+   }
+
+   .premios-lista li {
+    margin:  8px auto;
+    width: 90%;
+    
+
+    
+
+
+   }
+   
+   #curiosidades div img  {
+     
+    width: 90%;
+
+
+   }
+
+   #curiosidades div iframe  {
+    margin: 10px auto;
+     
+    width: 90%;
+
+
+   }
+
+}
+
+
+   @media (width:320px){
+
+    .perfil  h1 {
+         white-space: nowrap;
+         font-size: 2.2em;
+    }
+
+
+}
+  
+@media  (min-width: 900px) and (max-width:1300px)  {
+
+    .header {
+
+        width: 100%;
+
+    }
+
+    .cabecalho__lista li {
+        display: flex;
+        margin:  20px 1px 0px 50px;  
+   
+   }
+
+   #premios p:first-of-type {
+
+     width: 100%;
+   }
+
+   .icones {
+   
+    margin-left: 10px;
+
+}
+
+
+
+
+
+
+
+}
+
+   
+
+
+
+
+
+
