@@ -7,14 +7,14 @@ Este projeto é um site dedicado à biografia de Katherine Johnson, uma matemát
 
 O site apresenta uma linha do tempo dos feitos de Katherine Johnson, fatos interessantes sobre sua vida e contribuições significativas.
 
-## Recursos
+## :floppy_disk:Recursos
 
 - **Biografia:** Uma visão geral da vida e carreira de Katherine Johnson.
 - **Carreira:** Eventos chave ao longo de sua  carreira.
 - **Contribuições:** Descrição de suas contribuições para a NASA e o campo da ciência.
 - **Design Responsivo:** Compatível com dispositivos móveis e desktops.
 
-## Instalação
+## :key: Instalação
 
 Para configurar e executar este projeto localmente, siga as etapas abaixo:
 
