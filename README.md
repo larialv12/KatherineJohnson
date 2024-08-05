@@ -5,6 +5,7 @@ Este projeto é um site dedicado à biografia de Katherine Johnson, uma matemát
 <div align="center">
   <img src= "https://github.com/user-attachments/assets/40b02b2c-6259-44ae-ba74-45ddc8cc9233" alt="Imagem 2" style="width: 200px; height: 400px;">
   <img src="https://github.com/user-attachments/assets/a33ce173-cbdf-4eea-b960-25dd291ee196" alt="Imagem 1" style="width: 600px; height: 400px;">
+</div>
 
 <h2> :clipboard: Visão Geral</h2>
 
