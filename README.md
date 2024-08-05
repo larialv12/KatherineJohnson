@@ -15,7 +15,7 @@ O site apresenta uma linha do tempo dos feitos de Katherine Johnson, fatos inter
 - **Design Responsivo:** Compatível com dispositivos móveis e desktops.
 
 ## :computer:Funcionalidades 
-*Efeito de Rolagem Dinâmico:** As imagens na página são exibidas gradualmente conforme o usuário rola para baixo.
+*Efeito de Rolagem Dinâmico:* As imagens na página são exibidas gradualmente conforme o usuário rola para baixo.
 
 ## :key: Instalação
 
