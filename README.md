@@ -1,6 +1,6 @@
 <h1>:pushpin:Biografia de Katherine Johnson</h1>
 
-Este projeto é um site dedicado à biografia de Katherine Johnson, uma matemática americana cujos cálculos de mecânica orbital foram críticos para o sucesso das primeiras missões espaciais tripuladas da NASA. Este site foi criado com HTML e CSS, com o objetivo de proporcionar uma experiência visualmente atraente e informativa.
+Este projeto é um site dedicado à biografia de Katherine Johnson, uma matemática americana cujos cálculos de mecânica orbital foram críticos para o sucesso das primeiras missões espaciais tripuladas da NASA. 
 
 
 <h2> :clipboard: Visão Geral</h2>
