@@ -14,6 +14,9 @@ O site apresenta uma linha do tempo dos feitos de Katherine Johnson, fatos inter
 - **Contribuições:** Descrição de suas contribuições para a NASA e o campo da ciência.
 - **Design Responsivo:** Compatível com dispositivos móveis e desktops.
 
+## :computer:Funcionalidades 
+*Efeito de Rolagem Dinâmico:** As imagens na página são exibidas gradualmente conforme o usuário rola para baixo.
+
 ## :key: Instalação
 
 Para configurar e executar este projeto localmente, siga as etapas abaixo:
@@ -30,11 +33,11 @@ Para configurar e executar este projeto localmente, siga as etapas abaixo:
 
 3. Abra o arquivo `index.html` em seu navegador preferido.
 
-## Uso
+## :dart: Uso
 
 Abra o arquivo `index.html` em seu navegador para visualizar o site. Navegue pelas diferentes seções para aprender sobre a vida e as contribuições de Katherine Johnson.
 
-## Tecnologias Utilizadas
+## :round_pushpin:Tecnologias Utilizadas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
