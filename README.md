@@ -5,7 +5,7 @@ Este projeto é um site dedicado à biografia de Katherine Johnson, uma matemát
 
 <h2> Visão Geral</h2>
 
-O site apresenta uma linha do tempo dos feitos de Katherine Johnson, fatos interessantes sobre sua vida e contribuições significativas . O layout é projetado para ser limpo e fácil de navegar, proporcionando uma ótima experiência ao usuário.
+O site apresenta uma linha do tempo dos feitos de Katherine Johnson, fatos interessantes sobre sua vida e contribuições significativas.
 
 ## Recursos
 
@@ -36,8 +36,14 @@ Abra o arquivo `index.html` em seu navegador para visualizar o site. Navegue pel
 
 ## Tecnologias Utilizadas
 
-- **HTML5:** Estrutura do site.
-- **CSS3:** Estilos e design responsivo.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+</div>
 
 
 
